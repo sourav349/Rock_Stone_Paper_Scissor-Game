@@ -15,3 +15,8 @@ The game follows the basic rules:
 - The winner is determined based on the standard rules of the game.
 
 `git clone https://github.com/username/repository.git`
+
+```bash
+# Command to copy
+git clone https://github.com/username/repository.git
+
